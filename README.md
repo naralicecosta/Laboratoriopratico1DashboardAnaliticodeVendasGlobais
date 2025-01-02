@@ -51,7 +51,7 @@
         <section>
             <h2>Capturas de Tela</h2>
             <h3>Visão Geral do Dashboard</h3>
-            <img src="Images/imgdash.png" alt="Captura de Tela do Dashboard">
+            <img src="https://github.com/naralicecosta/Laboratoriopratico1DashboardAnaliticodeVendasGlobais/blob/main/images/imgdash.png">
         </section>
         <section>
             <h2>Sobre o Autor</h2>
