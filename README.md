@@ -51,24 +51,12 @@
         <section>
             <h2>Capturas de Tela</h2>
             <h3>Visão Geral do Dashboard</h3>
-            <img src="Imagess/visao-geral.png" alt="Captura de Tela do Dashboard">
-            <h3>Mapa de Vendas por País</h3>
-            <img src="Imagens/mapa-vendas.png" alt="Mapa Interativo de Vendas">
-        </section>
-        <section>
-            <h2>Como Usar</h2>
-            <ol>
-                <li>Faça o download ou clone este repositório:
-                    <pre><code>git clone https://github.com/seu-usuario/dashboard-vendas-globais.git</code></pre>
-                </li>
-                <li>Abra o arquivo <code>Dashboard.pbix</code> no Power BI Desktop.</li>
-                <li>Explore as visualizações e utilize os filtros interativos para análises detalhadas.</li>
-            </ol>
+            <img src="Images/imgdash.png" alt="Captura de Tela do Dashboard">
         </section>
         <section>
             <h2>Sobre o Autor</h2>
             <p>
-                Desenvolvido por <a href="https://github.com/seu-usuario">Seu Nome</a>, entusiasta de análise de dados e visualização interativa, com foco em storytelling de dados.
+                Desenvolvido por <a href="https://github.com/naralicecosta">Naralice Costa</a>, entusiasta de análise de dados e visualização interativa, com foco em storytelling de dados.
             </p>
         </section>
     </main>
